@@ -1,0 +1,26 @@
+{
+  "name": "network-viewer",
+  "authors": [
+    "Jon Heise <j.heise@gmail.com>"
+  ],
+  "description": "Webapp to see hosts on network",
+  "main": "yes",
+  "moduleType": [],
+  "keywords": [
+    "foobar"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "d3": "~3.5.6",
+    "jquery": "~2.1.4"
+  }
+}
